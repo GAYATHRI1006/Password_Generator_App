@@ -1,12 +1,57 @@
-# React + Vite
+# React Strong Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and secure password generator built using React. Customize the password by selecting character types and desired length.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Live Demo](https://password-generator-app-sample.vercel.app/)  
 
-## Expanding the ESLint configuration
+## Developed By  
+**Gayathri G**  
+GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshot
+
+![Password Generator Screenshot](password1.png)
+
+![Password Generator Screenshot](password2.png)
+
+![Password Generator Screenshot](password3.png)
+
+## Features
+
+- Generate secure passwords  
+- Choose length of password  
+- Option to include:  
+  - Uppercase letters  
+  - Lowercase letters  
+  - Numbers  
+  - Symbols  
+- Copy generated password to clipboard
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/GAYATHRI1006/Digital_Clock_using_React.git
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
+
+## Tech Stack
+
+- **React**
+- **JavaScript**
+- **HTML5**
+- **CSS3**                    
