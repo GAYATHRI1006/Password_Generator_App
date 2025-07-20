@@ -1,4 +1,4 @@
-# React Strong Password Generator
+# React Strong Password Generator App
 
 A simple and secure password generator built using React. Customize the password by selecting character types and desired length.
 
