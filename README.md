@@ -1,9 +1,3 @@
-# React Strong Password Generator
-
-
-A simple and secure password generator built using React. Customize the password by selecting character types and desired length.
-
-## Live Demo
 
 🔗 [Live Demo](https://password-generator-app-sample.vercel.app/)  
 
